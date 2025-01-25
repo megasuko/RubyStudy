@@ -1,2 +1,2 @@
-# RubyStudy
+# Ruby_Study
 大学時代にプログラミング学習のために作成した雑多なRubyプログラムです。
